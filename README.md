@@ -1,8 +1,8 @@
 ## React + D3 Chart Components
 
-A collection of React + D3 chart components to easily generate data visualizations
+A collection of React + D3 chart components to easily generate data visualizations and dashboards
 
-#### Setup instructions
+#### Chart types
 - Scatter chart
 - Line Series
   - Multiple line chart
@@ -18,9 +18,10 @@ A collection of React + D3 chart components to easily generate data visualizatio
 - Interactive chart showing tooltip on hover
 - Responsive screen size
 
-Reference App.js for sample code for dashboard layout
+#### Sample dashboard
 
-Sample dashboard:
+See [App.js](https://github.com/dianaow/d3-react-components/blob/main/src/App.jsx) for sample code for below dashboard layout
+
 ![d3-react-library-demo](/d3-react-library-demo.png)
 
 ### Setup instructions
